@@ -2,4 +2,4 @@
 
 Este é um repositório de exemplo para o projeto [Codaí] (https://www.plataforma.growdev.com.br/).
 
-This is a example repository to [Codaí] (https://www.plataforma.growdev.com.br/) project.
+This is an example repository to [Codaí] (https://www.plataforma.growdev.com.br/) project.
